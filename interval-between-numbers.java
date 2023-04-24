@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class interval-between-numbers {
 
     public static void main(String[] args) {
 
